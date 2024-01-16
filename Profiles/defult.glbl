@@ -2,6 +2,16 @@
 <GlobalVariableEntities>
     <GlobalVariableEntity>
         <description></description>
+        <initValue>'zxcasdqwe@gmail.com'</initValue>
+        <name>username</name>
+    </GlobalVariableEntity>
+    <GlobalVariableEntity>
+        <description></description>
+        <initValue>'Auvjdaj1992@'</initValue>
+        <name>password</name>
+    </GlobalVariableEntity>
+    <GlobalVariableEntity>
+        <description></description>
         <initValue>'https://automationexercise.com'</initValue>
         <name>application_domain</name>
     </GlobalVariableEntity>
