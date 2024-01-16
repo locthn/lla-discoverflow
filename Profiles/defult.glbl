@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GlobalVariableEntities>
+    <GlobalVariableEntity>
+        <description></description>
+        <initValue>'https://automationexercise.com'</initValue>
+        <name>application_domain</name>
+    </GlobalVariableEntity>
+    <defaultProfile>true</defaultProfile>
+    <description></description>
+    <name>defult</name>
+    <tag></tag>
+</GlobalVariableEntities>
